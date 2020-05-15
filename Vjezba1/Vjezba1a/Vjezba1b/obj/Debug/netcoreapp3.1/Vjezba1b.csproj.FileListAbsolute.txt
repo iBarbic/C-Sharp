@@ -1,0 +1,13 @@
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\bin\Debug\netcoreapp3.1\Vjezba1b.exe
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\bin\Debug\netcoreapp3.1\Vjezba1b.deps.json
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\bin\Debug\netcoreapp3.1\Vjezba1b.runtimeconfig.json
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\bin\Debug\netcoreapp3.1\Vjezba1b.runtimeconfig.dev.json
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\bin\Debug\netcoreapp3.1\Vjezba1b.dll
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\bin\Debug\netcoreapp3.1\Vjezba1b.pdb
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.csprojAssemblyReference.cache
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.AssemblyInfoInputs.cache
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.AssemblyInfo.cs
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.dll
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.pdb
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1b\obj\Debug\netcoreapp3.1\Vjezba1b.genruntimeconfig.cache
