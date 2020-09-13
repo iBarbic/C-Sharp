@@ -11,3 +11,16 @@ C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.d
 C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.pdb
 C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.csproj.CoreCompileInputs.cache
 C:\Users\ivanb\source\repos\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.genruntimeconfig.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\bin\Debug\netcoreapp3.1\Vjezba1a.exe
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\bin\Debug\netcoreapp3.1\Vjezba1a.deps.json
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\bin\Debug\netcoreapp3.1\Vjezba1a.runtimeconfig.json
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\bin\Debug\netcoreapp3.1\Vjezba1a.runtimeconfig.dev.json
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\bin\Debug\netcoreapp3.1\Vjezba1a.dll
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\bin\Debug\netcoreapp3.1\Vjezba1a.pdb
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.csprojAssemblyReference.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.AssemblyInfoInputs.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.AssemblyInfo.cs
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.dll
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.pdb
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba1\Vjezba1a\Vjezba1a\obj\Debug\netcoreapp3.1\Vjezba1a.genruntimeconfig.cache

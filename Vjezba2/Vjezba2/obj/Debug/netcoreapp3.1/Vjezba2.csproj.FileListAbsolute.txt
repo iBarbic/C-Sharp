@@ -11,3 +11,16 @@ C:\Users\ivanb\source\repos\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.Asse
 C:\Users\ivanb\source\repos\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.dll
 C:\Users\ivanb\source\repos\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.pdb
 C:\Users\ivanb\source\repos\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.genruntimeconfig.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\bin\Debug\netcoreapp3.1\Vjezba2.exe
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\bin\Debug\netcoreapp3.1\Vjezba2.deps.json
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\bin\Debug\netcoreapp3.1\Vjezba2.runtimeconfig.json
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\bin\Debug\netcoreapp3.1\Vjezba2.runtimeconfig.dev.json
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\bin\Debug\netcoreapp3.1\Vjezba2.dll
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\bin\Debug\netcoreapp3.1\Vjezba2.pdb
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.csprojAssemblyReference.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.AssemblyInfoInputs.cache
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.AssemblyInfo.cs
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.dll
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.pdb
+C:\Users\ivanb\C-Sharp\C-Sharp\Vjezba2\Vjezba2\obj\Debug\netcoreapp3.1\Vjezba2.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\bin\Debug\Lab_UndoRedo.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\bin\Debug\Lab_UndoRedo.pdb
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Lab_UndoRedo.csprojAssemblyReference.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Labs.AppForm.resources
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Lab_UndoRedo.csproj.GenerateResource.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Lab_UndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Lab_UndoRedo.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9\obj\Debug\Lab_UndoRedo.pdb
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\bin\Debug\Lab_UndoRedo.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\bin\Debug\Lab_UndoRedo.pdb
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Lab_UndoRedo.csprojAssemblyReference.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Labs.AppForm.resources
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Lab_UndoRedo.csproj.GenerateResource.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Lab_UndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Lab_UndoRedo.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab9 final\obj\Debug\Lab_UndoRedo.pdb
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\bin\Debug\Lab_UndoRedo.exe
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\bin\Debug\Lab_UndoRedo.pdb
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Lab_UndoRedo.csprojAssemblyReference.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Labs.AppForm.resources
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Lab_UndoRedo.csproj.GenerateResource.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Lab_UndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Lab_UndoRedo.exe
+C:\Users\ivanb\Desktop\C-Sharp\Lab9\obj\Debug\Lab_UndoRedo.pdb

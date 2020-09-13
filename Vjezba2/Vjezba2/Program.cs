@@ -41,15 +41,15 @@ namespace Vjezba2
 
                 if (s == "1")
                 {
-                    DoSubMenuCircle();
+                    MenuCircle();
                 }
                 else if (s == "2")
                 {
-                    DoSubMenuSquare();
+                    MenuSquare();
                 }
                 else if (s == "3")
                 {
-                    DoSubMenuTriangle();
+                    MenuTriangle();
                 }
                 else if (s == "4")
                 {
@@ -74,11 +74,14 @@ namespace Vjezba2
                 }
             }
         }
-
-        private static void DoSubMenuCircle()
+        public static void Message(string xypost)
         {
-            DataModel.CircleAdded += ((string xyPos) => Console.WriteLine(xyPos));
-            Console.WriteLine("You are in sub menu for circle - insert the value of radius:");
+            Console.WriteLine(xypost);
+        }
+        private static void MenuCircle()
+        {
+            DataModel.CircleAdd += Message;
+            Console.WriteLine("insert the value of radius:");
             Console.Write("Radius=");
             string input;
             while (true)
@@ -123,7 +126,7 @@ namespace Vjezba2
             }
         }
 
-        private static void DoSubMenuSquare()
+        private static void MenuSquare()
         {
             Console.WriteLine("You are in sub menu for square - insert the value for the side of square:");
             Console.Write("Side of square=");
@@ -171,7 +174,7 @@ namespace Vjezba2
 
         }
 
-        private static void DoSubMenuTriangle()
+        private static void MenuTriangle()
         {
             Console.WriteLine("You are in sub menu for triangle - insert the value of side:");
             Console.Write("Side=");

@@ -12,14 +12,14 @@ namespace Vjezba2
     {
         private static ArrayList ALL_ELEMENTS;
 
-        public delegate void CircleAddedHandler(string xyPos);
+        public delegate void CircleAdded(string xyPos);
 
-        public static event CircleAddedHandler CircleAdded;
+        public static event CircleAdded CircleAdd;
 
         public static void AddCircle(Circle circle)
         {
             ALL_ELEMENTS.Add(circle);
-            CircleAdded?.Invoke(string.Format("xPos: {0}, yPos: {1}", circle.GetXPos(), circle.GetYPos()));
+            CircleAdd?.Invoke(string.Format("exPos: {0}, eyPos: {1}", circle.GetXPos(), circle.GetYPos()));
         }
 
         public DataModel()

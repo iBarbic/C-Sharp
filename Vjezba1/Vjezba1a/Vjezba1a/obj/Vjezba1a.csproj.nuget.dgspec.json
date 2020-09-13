@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj": {}
+    "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj": {
+    "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj",
+        "projectUniqueName": "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj",
         "projectName": "Vjezba1a",
-        "projectPath": "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj",
+        "projectPath": "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1a\\Vjezba1a.csproj",
         "packagesPath": "C:\\Users\\ivanb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1a\\obj\\",
+        "outputPath": "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1a\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivanb\\AppData\\Roaming\\NuGet\\NuGet.Config",

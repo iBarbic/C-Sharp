@@ -1,0 +1,42 @@
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\Studenti.mdf
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\Studenti_log.ldf
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\EntityFramework.dll
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\EntityFramework.xml
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\obj\Debug\lab11.csproj.CopyComplete
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab11\lab11\obj\Debug\lab11.pdb
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\Studenti.mdf
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\Studenti_log.ldf
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\lab11.exe.config
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\lab11.exe
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\lab11.pdb
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\obj\Debug\lab11.csproj.CopyComplete
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\obj\Debug\lab11.exe
+C:\Users\ivanb\Desktop\11.-vjezba-Zvonimir-Cicvaric\obj\Debug\lab11.pdb
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\obj\Debug\lab11.exe
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\obj\Debug\lab11.pdb
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\Studenti.mdf
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\Studenti_log.ldf
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\lab11.exe.config
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\lab11.exe
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\lab11.pdb
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\EntityFramework.dll
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\EntityFramework.xml
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivanb\Desktop\C-Sharp\Lab11\obj\Debug\lab11.csproj.CopyComplete

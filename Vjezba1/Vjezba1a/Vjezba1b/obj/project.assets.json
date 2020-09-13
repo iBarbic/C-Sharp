@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1b\\Vjezba1b.csproj",
+      "projectUniqueName": "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1b\\Vjezba1b.csproj",
       "projectName": "Vjezba1b",
-      "projectPath": "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1b\\Vjezba1b.csproj",
+      "projectPath": "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1b\\Vjezba1b.csproj",
       "packagesPath": "C:\\Users\\ivanb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivanb\\source\\repos\\Vjezba1a\\Vjezba1b\\obj\\",
+      "outputPath": "C:\\Users\\ivanb\\C-Sharp\\C-Sharp\\Vjezba1\\Vjezba1a\\Vjezba1b\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivanb\\AppData\\Roaming\\NuGet\\NuGet.Config",

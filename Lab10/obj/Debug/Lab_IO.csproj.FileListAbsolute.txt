@@ -1,0 +1,36 @@
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\bin\Debug\Lab_IO.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\bin\Debug\Lab_IO.pdb
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Lab_IO.csprojAssemblyReference.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Labs.AppForm.resources
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Lab_IO.csproj.GenerateResource.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Lab_IO.csproj.CoreCompileInputs.cache
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Lab_IO.exe
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Lab_IO.pdb
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zvone\Desktop\Lab\C# vjezbe\Lab10\obj\Debug\Lab_IO.csproj.CopyComplete
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Lab_IO.csprojAssemblyReference.cache
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Lab_IO.exe
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Lab_IO.pdb
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\bin\Debug\Lab_IO.exe
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\bin\Debug\Lab_IO.pdb
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Labs.AppForm.resources
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Lab_IO.csproj.GenerateResource.cache
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Lab_IO.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\10.-vjezba-Zvonimir-Cicvaric\obj\Debug\Lab_IO.csproj.CopyComplete
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\bin\Debug\Lab_IO.exe
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\bin\Debug\Lab_IO.pdb
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Lab_IO.csprojAssemblyReference.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Labs.AppForm.resources
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Lab_IO.csproj.GenerateResource.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Lab_IO.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Lab_IO.csproj.CopyComplete
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Lab_IO.exe
+C:\Users\ivanb\Desktop\C-Sharp\Lab10\obj\Debug\Lab_IO.pdb
